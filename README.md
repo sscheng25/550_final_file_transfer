@@ -16,3 +16,5 @@ Large files are stored in [google drive](https://drive.google.com/drive/folders/
 
 ## Useful links
  - [Southwest Airline flight search (map)](https://www.southwest.com/flight/routemap_dyn.html)
+ - [Crime data](https://jacobdkaplan.com/crime.html#state=California&agency=California%20State%20University%20-%20Channel%20Islands%20Poli&category=all_crimes&rate=false&monthly=false&checkbox_1=true&checkbox_2=false&checkbox_3=false&checkbox_4=false)
+ - [RIDB Recreation Data](https://ridb.recreation.gov/download)
