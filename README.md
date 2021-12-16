@@ -14,6 +14,7 @@ Large files are stored in [google drive](https://drive.google.com/drive/folders/
  - County median household income data uploaded.
  - OSM restaurant & parking features uploaded.
  - Intl Airport data (https://hub.arcgis.com/datasets/4782d6f5aa844591a16d46df635b7af4_1/explore?location=41.854642%2C-105.851764%2C5.10)
+ - FAA Airports (https://ais-faa.opendata.arcgis.com/datasets/e747ab91a11045e8b3f8a3efd093d3b5_0/explore?location=38.632960%2C-107.589693%2C10.16)
 
 ## Useful links
  - [Southwest Airline flight search (map)](https://www.southwest.com/flight/routemap_dyn.html)
